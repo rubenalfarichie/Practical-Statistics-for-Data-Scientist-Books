@@ -1,7 +1,6 @@
 # Practical-Statistics-for-Data-Scientist-Books
 
-**Author:** Ruben Alfa Richie
-**Date:** September 29, 2026  
+**Author:** Ruben Alfa Richie 
 **Course:** Machine Learning and Deep Learning  
 **Assignment:** Individual Task - Code Reproduction + Theoretical Explanation
 
